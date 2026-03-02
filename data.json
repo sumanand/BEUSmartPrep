@@ -8,7 +8,7 @@
         "subjects": {
           "subject1": {
             "credits": 3,
-            "name": "Engineering Chemistry",
+            "name": "Engineering Chemistry suman anand",
             "syllabus": {
               "unit1": "Atomic and Molecular Structure: Electromagnetic radiations, Dual nature of electron and Heisenberg uncertainty Principle. Photoelectric effect, Planck's theory. Principles for the combination of atomic orbitals to form a molecular diagram of molecular orbitals. Bent's rule, VSEPR theory (typical example) coordination numbers and geometries. Isomerism in transition metal compounds. Metal Carbonyls; Synthesis and Structure.",
               "unit2": "Spectroscopy: Principle of rotational and vibrational spectroscopy, selection rule for application in diatomic molecules, elementary idea of electronic spectroscopy, UV-VIS spectroscopy with related to rules and its applications. Basic Principle of nuclear Magnetic resonance spectroscopy with applications.",
@@ -2773,4 +2773,5 @@
       ""
     ]
   }
+
 }
